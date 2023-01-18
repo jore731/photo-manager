@@ -1,0 +1,7 @@
+name: photo-manager-backend
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - uvicorn
+  - fastapi
